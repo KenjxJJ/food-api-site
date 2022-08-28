@@ -6,8 +6,8 @@ An online site to deal with consuming a food API for a virtual restaurant.
 
 ## Authors
 
-[@Joel Kiggwe](#authors)
-[@Hassan Bulega](#authors)
+[@Joel Kiggwe](https://github.com/KenjxJJ)
+[@Hassan Bulega](https://github.com/BulegaHassan)
 
 ## Demo
 
